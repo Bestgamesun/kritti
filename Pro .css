@@ -1,0 +1,108 @@
+.frame {
+ background-color: #ffffff;
+ display: grid;
+ justify-items: center;
+ align-items: start;
+ width: 100vw;
+}
+.frame.div {
+ background-color: #ffffff;
+ width: 570px;
+ height: 1224px;
+ position: relative;
+}
+.frame.overlap-group {
+ position: absolute;
+ width: 570px;
+ height: 472px;
+ top: 0;
+ left: 0;
+}
+.frame.polygon {
+ position: absolute;
+ width: 570px;
+ height: 412px;
+ top: 0;
+ left: 0;
+}
+.frame.text-wrapper {
+ width: 425px;
+ top: 106px;
+ left: 59px;
+ position: absolute;
+ font-family: "Inter-Regular", Helvetica;
+ font-weight: 400;
+ color: #000000;
+ font-size: 64px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.frame.text-wrapper-2 {
+ width: 425px;
+ top: 254px;
+ left: 59px;
+ position: absolute;
+ font-family: "Inter-Regular", Helvetica;
+ font-weight: 400;
+ color: #000еее;
+ font-size: 64px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+.frame.text-wrapper-3 {
+ width: 425px;
+ top: 402px;
+ left: 59px;
+ position: absolute;
+ font-family: "Inter-Regular", Helvetica;
+ font-weight: 400;
+ color: #000000;
+ font-size: 64px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+
+.frame.text-wrapper-4 {
+ width: 425px;
+ top: 550px;
+ left: 66px;
+ position: absolute;
+ font-family: "Inter-Regular", Helvetica;
+ font-weight: 400;
+ color: #eeeeee;
+ font-size: 64px;
+ letter-spacing: 8;
+ line-height: normal;
+ white-space: nowrap;
+}
+
+.frame.text-wrapper-5 {
+ width: 440px;
+ top: 719px;
+ left: 66px;
+ position: absolute;
+ font-family: "Inter-Regular", Helvetica;
+ font-weight: 400;
+ color: #000000;
+ font-size: 64px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
+
+.frame.text-wrapper-6 {
+ width: 440px;
+ top: 864px;
+ left: 57px;
+ position: absolute;
+ font-family: "Inter-Regular", Helvetica;
+ font-weight: 400;
+ color: #000000;
+ font-size: 64px;
+ letter-spacing: 0;
+ line-height: normal;
+ white-space: nowrap;
+}
